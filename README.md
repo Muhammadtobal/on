@@ -1,0 +1,1 @@
+The e-commerce site offers various services such as shopping and purchasing products of various types and brands. The site is protected and authenticated and is linked to an electronic payment gateway.
